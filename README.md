@@ -29,16 +29,7 @@ The dataset (`laptop.csv`) contains the following columns:
 ## 🔍 Current Status
 
 - ✅ Loaded and displayed the dataset
-- ❌ No cleaning or feature engineering yet
-- ❌ No visualization or statistical analysis
-- ❌ No machine learning/modeling implemented
 
-## 🚀 Next Steps
-
-1. **Data Cleaning**: Remove unnecessary columns like `Unnamed: 0` and convert data types.
-2. **EDA**: Visualize the distribution of features (e.g., prices across brands, effect of RAM/storage).
-3. **Feature Engineering**: Extract GHz from CPU, unify RAM/storage sizes, etc.
-4. **Model Building** *(optional)*: Predict laptop prices using regression models.
 
 ## 🧠 Learnings
 
